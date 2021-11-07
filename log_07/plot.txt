@@ -1,0 +1,148 @@
+set terminal png notransparent interlace size 640,480
+             set datafile separator ";"
+             set key autotitle columnheader
+
+             set output "151.png"
+plot "data.csv" using 1:2 with lines
+set output "2C1.png"
+plot "data.csv" using 1:3 with lines
+set output "320.png"
+plot "data.csv" using 1:4 with lines
+set output "359.png"
+plot "data.csv" using 1:5 with lines
+set output "35B.png"
+plot "data.csv" using 1:6 with lines
+set output "367.png"
+plot "data.csv" using 1:7 with lines
+set output "369.png"
+plot "data.csv" using 1:8 with lines
+set output "381.png"
+plot "data.csv" using 1:9 with lines
+set output "386.png"
+plot "data.csv" using 1:10 with lines
+set output "397.png"
+plot "data.csv" using 1:11 with lines
+set output "3B5.png"
+plot "data.csv" using 1:12 with lines
+set output "3C3.png"
+plot "data.csv" using 1:13 with lines
+set output "3E1.png"
+plot "data.csv" using 1:14 with lines
+set output "3E3.png"
+plot "data.csv" using 1:15 with lines
+set output "3E9.png"
+plot "data.csv" using 1:16 with lines
+set output "400.png"
+plot "data.csv" using 1:17 with lines
+set output "40C.png"
+plot "data.csv" using 1:18 with lines
+set output "436.png"
+plot "data.csv" using 1:19 with lines
+set output "457.png"
+plot "data.csv" using 1:20 with lines
+set output "470.png"
+plot "data.csv" using 1:21 with lines
+set output "481.png"
+plot "data.csv" using 1:22 with lines
+set output "497.png"
+plot "data.csv" using 1:23 with lines
+set output "4B9.png"
+plot "data.csv" using 1:24 with lines
+set output "4BD.png"
+plot "data.csv" using 1:25 with lines
+set output "527.png"
+plot "data.csv" using 1:26 with lines
+set output "52D.png"
+plot "data.csv" using 1:27 with lines
+set output "52F.png"
+plot "data.csv" using 1:28 with lines
+set output "531.png"
+plot "data.csv" using 1:29 with lines
+set output "532.png"
+plot "data.csv" using 1:30 with lines
+set output "550.png"
+plot "data.csv" using 1:31 with lines
+set output "555.png"
+plot "data.csv" using 1:32 with lines
+set output "569.png"
+plot "data.csv" using 1:33 with lines
+set output "571.png"
+plot "data.csv" using 1:34 with lines
+set output "575.png"
+plot "data.csv" using 1:35 with lines
+set output "57C.png"
+plot "data.csv" using 1:36 with lines
+set output "58C.png"
+plot "data.csv" using 1:37 with lines
+set output "591.png"
+plot "data.csv" using 1:38 with lines
+set output "5AC.png"
+plot "data.csv" using 1:39 with lines
+set output "5B5.png"
+plot "data.csv" using 1:40 with lines
+set output "5D1.png"
+plot "data.csv" using 1:41 with lines
+set output "5E1.png"
+plot "data.csv" using 1:42 with lines
+set output "5E8.png"
+plot "data.csv" using 1:43 with lines
+set output "5F5.png"
+plot "data.csv" using 1:44 with lines
+set output "60E.png"
+plot "data.csv" using 1:45 with lines
+set output "61A.png"
+plot "data.csv" using 1:46 with lines
+set output "61C.png"
+plot "data.csv" using 1:47 with lines
+set output "621.png"
+plot "data.csv" using 1:48 with lines
+set output "629.png"
+plot "data.csv" using 1:49 with lines
+set output "62A.png"
+plot "data.csv" using 1:50 with lines
+set output "62B.png"
+plot "data.csv" using 1:51 with lines
+set output "62D.png"
+plot "data.csv" using 1:52 with lines
+set output "635.png"
+plot "data.csv" using 1:53 with lines
+set output "64F.png"
+plot "data.csv" using 1:54 with lines
+set output "651.png"
+plot "data.csv" using 1:55 with lines
+set output "653.png"
+plot "data.csv" using 1:56 with lines
+set output "655.png"
+plot "data.csv" using 1:57 with lines
+set output "658.png"
+plot "data.csv" using 1:58 with lines
+set output "65D.png"
+plot "data.csv" using 1:59 with lines
+set output "65F.png"
+plot "data.csv" using 1:60 with lines
+set output "661.png"
+plot "data.csv" using 1:61 with lines
+set output "665.png"
+plot "data.csv" using 1:62 with lines
+set output "666.png"
+plot "data.csv" using 1:63 with lines
+set output "66C.png"
+plot "data.csv" using 1:64 with lines
+set output "679.png"
+plot "data.csv" using 1:65 with lines
+set output "67A.png"
+plot "data.csv" using 1:66 with lines
+set output "67C.png"
+plot "data.csv" using 1:67 with lines
+set output "67D.png"
+plot "data.csv" using 1:68 with lines
+set output "69C.png"
+plot "data.csv" using 1:69 with lines
+set output "69D.png"
+plot "data.csv" using 1:70 with lines
+set output "6B4.png"
+plot "data.csv" using 1:71 with lines
+set output "6DA.png"
+plot "data.csv" using 1:72 with lines
+set output "6E7.png"
+plot "data.csv" using 1:73 with lines
